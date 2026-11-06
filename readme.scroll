@@ -1,6 +1,6 @@
 // Friends of Knowbooks
 //
-// Testimonials from our friends. Prefer "friends" over "customers".
+// Testimonials from our friends. Aka "customers".
 // Add a testimonial: drop an image named "YYYY-MM-DD FriendName -- Optional quote.jpeg"
 // then run: scroll build. Newest first. Optional smaller copy in web/ for faster loads.
 // No catalog file — the gallery is built from the image filenames.
